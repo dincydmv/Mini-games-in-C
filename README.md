@@ -1,8 +1,8 @@
 # Console-based Games in C
-This repository contains some mini games made using C language.
-I created these games to practice C programming concepts like loops, conditionals, functions, random numbers, and logic building.\
+This repository contains some mini games made using C language.\
+I created these games to practice C programming concepts like loops, conditionals, functions, random numbers, and logic building.
 
-It includes 3 games:
+It includes 3 games:\
 -Prison Escape Game\
 -Rock Paper Scissors (Basic)\
 -Rock Paper Scissors[rps] (Advanced)
@@ -13,13 +13,13 @@ It includes 3 games:
 
 This is a simple version of the classic Rock Paper Scissors game.
 
-Features:
+Features:\
 Rock, Paper, Scissors options\
 Computer chooses randomly\
 Win / Lose / Draw result\
 Runs continuously until exit\
 
-Concepts Used:
+Concepts Used:\
 if-else\
 switch\
 while loop\
@@ -33,7 +33,7 @@ This game helped me understand basic game logic and user input handling.
 
 This is an improved version with more features and better gameplay.
 
-Features:
+Features:\
 Time Reaction Mode\
 Shows “Get Ready…”\
 Waits for input for 2–5 seconds\
@@ -55,7 +55,7 @@ This is a story-based decision game.
 You are in prison and you must escape by choosing different options.\
 Each choice changes what happens next.\
 
-Features:
+Features:\
 Multiple decision paths\
 Different endings\
 Story-based gameplay
