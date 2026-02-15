@@ -17,7 +17,7 @@ Features:\
 Rock, Paper, Scissors options\
 Computer chooses randomly\
 Win / Lose / Draw result\
-Runs continuously until exit\
+Runs continuously until exit
 
 Concepts Used:\
 if-else\
