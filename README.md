@@ -53,7 +53,7 @@ This version focuses more on game mechanics and state tracking.
 
 This is a story-based decision game.
 You are in prison and you must escape by choosing different options.\
-Each choice changes what happens next.\
+Each choice changes what happens next.
 
 Features:\
 Multiple decision paths\
